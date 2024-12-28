@@ -133,6 +133,7 @@ const MODIFIERS: [&str; 49] = [
     "ltr",
     "rtl",
     "open",
+    "*", 
     // "aria-[…]	",
     // data-[…]	&[data-…]
     // rtl	[dir=“rtl”] &
