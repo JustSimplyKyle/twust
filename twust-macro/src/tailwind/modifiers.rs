@@ -82,7 +82,7 @@ use crate::config::{add_classes_for_field, modifiers};
 
 use super::tailwind_config::TailwindConfig;
 
-const MODIFIERS: [&str; 49] = [
+const MODIFIERS: [&str; 50] = [
     "hover",
     "focus",
     "focus-within",
